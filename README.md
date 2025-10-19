@@ -15,5 +15,5 @@ Skills: ML/Python/Power bi/SQL/Java
 
 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/tirtha4542/contributions?format=svg&private=false)  
+
 
