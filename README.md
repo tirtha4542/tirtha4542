@@ -31,14 +31,7 @@ Passionate about bridging the gap between intelligent models and fully functiona
 
 ---
 
-### 📈 GitHub Analytics
 
-### 📈 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirtha-Bepary&show_icons=true&theme=radial&hide_border=true" height="150" alt="Tirtha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirtha-Bepary&layout=compact&theme=radial&hide_border=true" height="150" alt="Top Languages" />
-</p>
 
 
 
