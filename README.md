@@ -11,7 +11,7 @@ Passionate about bridging the gap between intelligent models and fully functiona
 - **Vector Databases:** ChromaDB
 - **Data Engineering & Relational DBs:** SQL, PostgreSQL
 - **Deployment & MLOps:** Docker, MLflow, Streamlit, Gradio
-- **Languages:** Python, Go, Java
+- **Languages:** Python, C, Java
 - **Deep Learning Frameworks:** PyTorch, PyTorch Lightning, Hugging Face, Scikit-learn
 
 ---
