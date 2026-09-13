@@ -7,7 +7,7 @@ Passionate about bridging the gap between intelligent models and fully functiona
 
 ### 🛠️ Tech Stack & Ecosystem
 
-- **Generative AI & Agents:** LangChain,LangGraph Retrieval-Augmented Generation (RAG)
+- **Generative AI & Agents:** LangChain,LangGraph, Retrieval Augmented Generation (RAG)
 - **Vector Databases:** ChromaDB,FAISS
 - **Data Engineering & Relational DBs:** SQL, PostgreSQL
 - **Deployment & MLOps:** Docker, MLflow, Streamlit, Gradio
